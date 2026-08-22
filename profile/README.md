@@ -1,4 +1,4 @@
-# Augno
+# OpenMRP
 
 **ERP for manufacturers** — build products, generate sales, ship orders, and collect payments, all in one platform.
 
@@ -16,5 +16,5 @@ Augno is a complete operations platform for manufacturers. It supports every sta
 
 ## Links
 
-- [Documentation](https://docs.augno.com)
-- [API Reference](https://docs.augno.com/api-reference)
+- [Documentation](https://docs.openmrp.ai)
+- [API Reference](https://docs.openmrp.ai/api-reference)
