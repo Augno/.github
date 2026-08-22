@@ -4,7 +4,7 @@
 
 ## Overview
 
-Augno is a complete operations platform for manufacturers. It supports every stage of the manufacturing business lifecycle: purchasing and production, sales and pricing, warehouse fulfillment, invoicing, and real-time analytics.
+OpenMRP is a complete operations platform for manufacturers. It supports every stage of the manufacturing business lifecycle: purchasing and production, sales and pricing, warehouse fulfillment, invoicing, and real-time analytics.
 
 ## Core Workflows
 
