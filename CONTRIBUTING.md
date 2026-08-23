@@ -21,7 +21,7 @@ write it — we would rather discuss a design than decline a finished branch.
 
 1. Fork, then branch from `main`.
 2. Follow the repository's `README.md` for setup and match the surrounding code. Each repository
-   documents its own toolchain, and several carry a `CLAUDE.md` with local conventions.
+   documents its own toolchain.
 3. Add tests. A bug fix should come with a test that fails without it.
 4. Run that repository's test, lint, and format commands before pushing. CI runs them anyway, and
    running them locally is faster than waiting.
