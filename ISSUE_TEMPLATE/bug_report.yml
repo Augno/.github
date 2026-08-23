@@ -1,0 +1,54 @@
+name: Bug report
+description: Something in an OpenMRP repository does not behave as documented.
+labels: ['bug']
+body:
+    - type: markdown
+      attributes:
+          value: |
+              **Do not include API keys, account IDs, or other secrets in this issue.**
+              To report a security vulnerability, email
+              [security@openmrp.ai](mailto:security@openmrp.ai) instead of opening an issue.
+
+    - type: textarea
+      id: what-happened
+      attributes:
+          label: What happened?
+          description: What you expected, and what you got instead.
+      validations:
+          required: true
+
+    - type: textarea
+      id: reproduce
+      attributes:
+          label: Steps to reproduce
+          description: A minimal reproduction gets a fix out considerably faster than a description.
+          placeholder: |
+              1. ...
+              2. ...
+      validations:
+          required: true
+
+    - type: input
+      id: version
+      attributes:
+          label: Version
+          description: Release tag, package version, or commit SHA.
+      validations:
+          required: true
+
+    - type: textarea
+      id: environment
+      attributes:
+          label: Environment
+          description: OS, language runtime, and anything else that might matter.
+      validations:
+          required: false
+
+    - type: textarea
+      id: logs
+      attributes:
+          label: Logs or error output
+          description: Redact any credentials before pasting. This is rendered as a code block.
+          render: text
+      validations:
+          required: false
