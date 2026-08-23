@@ -6,7 +6,7 @@ its own `CONTRIBUTING.md`.
 ## Before you start
 
 **Security issues do not belong in the issue tracker.** Email
-[security@augno.com](mailto:security@augno.com) and give us a chance to ship a fix first.
+[security@openmrp.ai](mailto:security@openmrp.ai) and give us a chance to ship a fix first.
 
 **Some repositories are generated.** The SDKs (`typescript-sdk`, `python-sdk`, `openmrp-go`) and
 `openapi-spec` are produced from the API on every release, so a direct edit is overwritten by the
@@ -58,4 +58,4 @@ in `open-mrp/api`.
 ## Questions
 
 Open an issue on the relevant repository, or email
-[support@augno.com](mailto:support@augno.com).
+[support@openmrp.ai](mailto:support@openmrp.ai).
