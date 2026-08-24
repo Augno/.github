@@ -1,7 +1,6 @@
 # Contributing to OpenMRP
 
-Thanks for your interest in OpenMRP. This applies to every OpenMRP repository that does not carry
-its own `CONTRIBUTING.md`.
+Thanks for your interest in OpenMRP.
 
 ## Before you start
 
