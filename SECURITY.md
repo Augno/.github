@@ -1,9 +1,5 @@
 # Security Policy
 
-This applies to every OpenMRP repository that does not carry its own `SECURITY.md`.
-
-## Reporting a vulnerability
-
 Email **[security@openmrp.ai](mailto:security@openmrp.ai)**, or use GitHub's private vulnerability
 reporting on the affected repository (**Security → Report a vulnerability**). Please do not open a
 public issue, and please give us a chance to ship a fix before disclosing publicly.
