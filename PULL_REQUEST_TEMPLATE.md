@@ -1,12 +1,12 @@
-## What changed
+### What changed
 
 <!-- The diff shows what. Say why. -->
 
-## Related issue
+### Related issue
 
 <!-- Closes #123, or "none" for a small fix. -->
 
-## Checklist
+### Checklist
 
 - [ ] The PR title follows [Conventional Commits](https://www.conventionalcommits.org/)
 - [ ] Tests added or updated; a bug fix has a test that fails without it
